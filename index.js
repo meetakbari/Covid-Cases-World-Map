@@ -42,5 +42,5 @@ function updateMap() {
 
 updateMap();
 
-let interval = 20000; //on every 2 seconds
+let interval = 300000; //on every 300 seconds
 setInterval(updateMap, interval);
