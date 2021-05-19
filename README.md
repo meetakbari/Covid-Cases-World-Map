@@ -6,6 +6,6 @@
 * Visualization is made with MapBox, a custom online maps provider.
 
 ### Tech Stack used
-* {Language}: HTML, CSS, JavaScript
+* >Language: HTML, CSS, JavaScript
 * Tools for Visualization: MapBox
 * Editor: VSCode 
